@@ -1,15 +1,13 @@
-Installation
-------------
+# Installation
 
-- In the same folder Console.exe is in, there is a file, console.xml
-- Open that file
-- Open the console.xml file from this repository
-- Copy and paste everything from `<colors>` to `</colors>` from this file into yours
-- Save
-- Reopen Console2
+* In the same folder Console.exe is in, there is a file named console.xml
+* Move the `<colors>...</colors>` section from this repository into your console.xml
+* Save your changes
+* Reopen Console2
 
-Preview
--------
-![Alt Preview](http://www.typeof.co/public/console2.png)
+# Preview
 
+![Alt Preview](https://raw.github.com/drmohundro/console2-monokai/master/_assets/monokai-console2-screenshot.png)
+
+To see all of the colors, you can run [Get-ConsoleColors.ps1](https://gist.github.com/drmohundro/5339473).
 
